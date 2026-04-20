@@ -8,8 +8,6 @@ The goal of this task is to assess how you translate a Figma design into a clean
 
 ## 🧩 Task
 
-You’ll be given a Figma frame of a job listing layout.
-
 👉 **[View the Figma design here](https://www.figma.com/design/3EZV6GR1RwDd6YlJBvBtrS/FED---TASK?node-id=0-1&t=DsKb8uM2zJ2DVmjb-1)**
 
 Your job is to build this UI as closely as possible in **Next.js**, matching the design pixel-perfectly.
@@ -80,10 +78,16 @@ We’d rather see a smaller piece done really well than lots of unfinished extra
 ## ▶️ Running the project
 
 Install dependencies:
+
+```bash
 npm install
+```
 
 Start the dev server:
+
+```bash
 npm run dev
+```
 
 ---
 
